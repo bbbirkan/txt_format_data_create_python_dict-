@@ -15,5 +15,5 @@ print(data)
 with open("export file.json", 'w', encoding='utf8') as f3:
   json.dump(data, f3, ensure_ascii=False, indent=1)
   my_dict = json.dumps(data, ensure_ascii=False)
-#rint(json.dumps(data, sort_keys=True, indent=4))
+
 
