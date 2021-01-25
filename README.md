@@ -1,1 +1,10 @@
-# txt_format_data_create_python_dict-
+# Txt ==> Python dictionary ==> Json
+
+Source txt such as:
+
+    "amperage" : "The strength .",
+    "agminated" : "Peyer in the small intestine.",
+    "ablactate" : "To Bailey.",
+    "alantin" : "Inulin.",
+    
+   
